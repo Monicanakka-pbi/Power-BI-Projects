@@ -17,7 +17,7 @@ This dashboard helps the customers to understand their Sales performance better.
 - Step 7 : Since the data contains various ratings and sales details, thus in order to represent, a multi-row card visual was added in the visualizations pane in report view. 
 - Step 8 : Visual filters (Slicers) were added for three fields named "Outlet Location Type", "Outlet Size", "Item Type".
 - Step 9 : Multi Row card visuals were added to the canvas, one representing "Total Sales","Average Sales","No of Items" & "Average Rating"
-          ** Using Field Parameters** which contains "Total Sales","Average Sales","No of Items" & "Average Rating" is created. Named "Metrics" is added to the report.That "Metrics"(i.e;Field parameter) has been added as a slicer in the report. Which helps in filtering three charts."Fat Content","Fat by Outlet","Item Type".
+          -----Using Field Parameters----- which consists of "Total Sales","Average Sales","No of Items" & "Average Rating" is created. Named "Metrics" is added to the report.That "Metrics"(i.e;Field parameter) has been added as a slicer in the report. Which helps in filtering three charts."Fat Content","Fat by Outlet","Item Type".
 - Step 10 : A donut chart was also added to the report design area representing  "Fat Content" also added to the report design area representing the "Fat Content". While creating this visual, field named "Item Fat Content" was added to the visual, thus Fat Content are also seggregated according the "Metrics". 
 
 - Step 11 :  A clustered bar chart was also added to the report design area representing the Outlet location type and Item fat content based on Metrics.
